@@ -1,0 +1,2 @@
+!Title: AdRules DNS List
+||update.synology.com^
