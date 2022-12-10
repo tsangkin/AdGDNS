@@ -6,3 +6,5 @@
 ||qhimg.com^
 ||mediav.com^
 ||fenxi.com^
+||*^$dnstype=HTTPS,dnsrewrite=REFUSED
+||*^$dnstype=AAAA,dnsrewrite=REFUSED
