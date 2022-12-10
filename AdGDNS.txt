@@ -3,3 +3,6 @@
 127.0.0.1 quickconnect.to
 127.0.0.1 synology.com
 127.0.0.1 quickconnect.cn
+||qhimg.com^
+||mediav.com^
+||fenxi.com^
